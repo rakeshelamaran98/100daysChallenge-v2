@@ -1,0 +1,68 @@
+Day21
+
+✓ Tools and Techniques for RE by https://youtu.be/3NTXFUxcKPc
+✓Gone through Penetration Testing Scoping and Engagement Methodology CPENT Module 1
+✓Solved Business logic vulnerabilities labs in portswigger
+✓Password Reset poisoning Vulnerability.
+
+Day22
+
+✓Completed Super Spam Room in tryhackme
+✓Basic Recon Automation by https://youtu.be/EZgxKP7HGLI
+✓Gone through OSINT Methodology CPENT Module 2
+✓Read hackerone reports
+
+Day23
+
+✓Solved SSRF labs in portswigger
+✓Watched https://youtu.be/VroEiMOJPm8 - Reversing a simple program
+✓Gone through Social Engineering PT CPENT Module 3
+✓Reported a bug in rvdp
+
+Day24
+
+✓Jira CVEs Mind Map https://raw.githubusercontent.com/harsh-bothra/learn365/main/MindMaps/JIRA_CVEs.png by
+✓Gf tool usage
+✓RustScan Installation - Modern Post scanner , faster than nmap
+✓Reported a bug in rvdp
+
+Day25
+
+✓Continued Solving SSRF labs in portswigger
+✓Subjack tool usage
+✓Learnt about Subdomain takeover vulnerability
+✓Simple Program in python RE https://youtu.be/ajy1PHWYeyQ
+
+Day26
+
+✓Watched https://youtu.be/yCUQBc2rY9Y - API Security by 
+✓Learnt about types of API and bugs in API
+✓Gone through Hackerone Reports
+
+Day27
+
+✓Dns Bruteforcing with nmap scripts
+✓BillCipher tool usage
+✓Solved Git and crumpets room in tryhackme
+✓Reported a bug in rvdp
+
+Day28
+
+✓Solved Access Control Vulnerabilities labs in portswigger
+✓Recon API Enumeration by https://youtu.be/fvcKwUS4PTE
+✓Ffuf and Arjun tool usage
+✓Gone through Infosec writeups
+
+Day29
+
+✓CVE 2020-5902 - Big IP RCE
+✓CVE 2021-3129 - Laravel Debug 
+✓Owasp Api Top 10 Vulnerabilities by https://youtu.be/aQGbYfalRTA
+✓SSRF Bypass Restrictions
+
+Day30
+
+✓Creating a keygen Part 1 by https://youtu.be/qS4VWL5R_OM
+✓Continued Solving Access Control Vulnerabilities labs in portswigger
+✓Learnt about JWT Vulnerabilities
+✓Jwt tool usage
