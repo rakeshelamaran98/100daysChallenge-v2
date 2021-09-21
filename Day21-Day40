@@ -66,3 +66,63 @@ Day30
 ✓Continued Solving Access Control Vulnerabilities labs in portswigger
 ✓Learnt about JWT Vulnerabilities
 ✓Jwt tool usage
+
+Day31
+
+✓Password Reset token Issues
+✓Learnt about 403 Forbidden bypass
+✓Bypass 403 tool usage
+
+Day32
+
+✓Learnt about SMTP Open relay attacks
+✓Jsparser tool usage
+✓Gone through Infosec writeups
+
+Day33
+
+✓Solved CSRF Labs in PortSwigger
+✓CSRF Complete Video Guide by https://youtu.be/7bTNMSqCMI0 
+✓Bolt tool Usage - CSRF Scanner
+
+Day34
+
+✓Continued Solving CSRF Labs in Portswigger
+✓Recon-ng tool usage - Commands,Workspaces and data management
+✓Gone through Network Penetration Testing Methodology-External - Module 4
+✓Reported a bug in rvdp
+
+
+Day35
+
+✓Learnt about IDOR Vulnerability https://youtu.be/gINAtzdccts by 
+✓Different ways to find IDOR https://t.co/W6EJUj1etG?amp=1
+✓Solved IDOR Vulnerabilities labs in portswigger
+✓Reported a bug in rvdp
+
+
+Day36
+
+✓Information Gathering With Shodan https://youtu.be/_DlGhlUkbwk
+✓Completed Dnsdetail Room in tryhackme
+✓Gone through Infosec writeups
+
+Day37
+
+✓Solved HTTP Host header attacks in portswigger
+✓Learnt about stored xss via file upload vulnerability
+✓Xss Exploitation Framework https://youtu.be/CNttFXupG8M by 
+✓Gone through Hackerone Reports
+
+Day38
+
+✓Solved Authentication labs in portswigger
+✓The Pentesters framework tool usage
+✓How to Find git secrets and private API Keys - Trufflehog tool
+
+
+Day39
+
+
+
+Day40
