@@ -1,25 +1,8 @@
 Day1:
 
-#100dayslearning
-
-✓Recon Startegies by InsiderPhD
-✓HTTP Digest Auth Hash calculation
-✓Reported a Bug in Rvdp
-
-#100dayslearning
-
-Day1:
-
 ✓Recon Strategies by @InsiderPhD 
 ✓HTTP Digest Auth Hash calculation
 ✓Reported a Bug in Rvdp
-
-#cybersecurity #bugbounty #learning
-
-
-https://digitalpay.us/vulnerability-disclosure/ - xmlrpc.php
-
-#100dayslearning
 
 Day2:
 
@@ -28,23 +11,12 @@ Day2:
 ✓HTTP Statelessness cookies
 ✓Reported a Bug in Rvdp
 
-#cybersecurity #bugbounty #learning
-
-
-#100dayslearning
-
 Day3:
 
 ✓The Bug Hunter's Methodology Recon by Jason Haddix. https://youtu.be/uKWu6yhnhbQ
 ✓How to Find web-cache poisoning using Nuclei tool
 ✓Basics of Html Injection
 ✓Reported a Bug in Rvdp
-
-#cybersecurity #bugbounty #learning
-
-
-
-#100dayslearning
 
 Day4:
 
@@ -53,10 +25,6 @@ Day4:
 ✓Aquatone tool
 ✓Gone through Infosec writeups
 
-#cybersecurity #bugbounty #learning
-
-#100dayslearning
-
 Day5:
 
 ✓Exploiting File Upload Vulnerability
@@ -64,11 +32,7 @@ Day5:
 ✓Basics of Command Injection
 ✓Gone through Infosec writeups
 
-#cybersecurity #bugbounty #learning
-
-#100dayslearning
-
-## Day6:
+Day6:
 
 ✓Solved PortSwigger labs
 ✓CVE 2020-3452 
@@ -82,23 +46,12 @@ Day7:
 ✓Hakrawler tool
 ✓Gone through Infosec writeups
 
-#cybersecurity #bugbounty #learning
-
-#100dayslearning
-
 Day8:
 
 ✓Completed Ultratech room in tryhackme
 ✓CVE 2021-27651
 ✓Haklistgen tool
 ✓Reported a Bug in Rvdp
-
-#cybersecurity #bugbounty #learning
-
-
-#100dayslearning
-
-#100dayslearning
 
 Day9:
 
@@ -107,9 +60,82 @@ Day9:
 ✓anew tool usage
 ✓Gone through Infosec writeups
 
-#cybersecurity #bugbounty #learning
+Day10:
+
+✓Completed Regular Expression room in tryhackme
+✓Learnt automation using bash scripting
+✓Gone through Infosec writeups
+
+Day11:
+
+✓Solved SSRF labs in portswigger
+✓Bug Bounty Recon video by https://youtu.be/vKMW-XeI2_c
+✓Maha tool usage
+✓Gone through Infosec writeups
 
 
+Day12
+
+✓Solved 2FA labs in portswigger
+✓Crunch tool usage
+✓Learnt how to enumerate username and password by bruteforcing
+✓Reported a Bug in Rvdp
 
 
+Day13
 
+✓Completed Relevant Room in tryhackme
+✓Basic msf console commands by https://youtu.be/gWKyFYMY_Pk
+✓Found an amazing resource https://pentest.ws/ - Complete Toolset for penetration testers
+✓Gone through Infosec writeups
+
+
+Day14
+
+✓Solved Authentication labs in portswigger
+✓ShuffleDns and MassDns tool usage
+✓Reported a Bug in Rvdp
+
+
+Day15
+
+✓Solved wgel ctf room in tryhackme
+✓Learnt about different methods of Account Takeover
+✓Gone through Hackerone Reports
+✓Reported a Bug in Rvdp
+
+Day16
+
+✓Solved XXE labs in portswigger
+✓2FA Bypass techniques Mindmap https://www.xmind.net/m/8Hkymg/# by Harsh bothra
+✓Xattacker tool usage
+✓Reported a Bug in Rvdp
+
+Day17
+
+✓Continued Solving XXE labs in portswigger
+✓Learnt about Information leak on github
+✓Started Learning bash scripting for automation
+✓Gone through Infosec writeups
+
+
+Day18
+
+✓Completed Bash scripting Room in tryhackme
+✓Github Recon and Sensitive Data Exposure Video by https://youtu.be/l0YsEk_59fQ
+✓Learnt about HTTP Parameter Pollution 
+✓Gitdorker tool usage
+
+Day19
+
+✓Solved Business logic vulnerabilities labs in portswigger
+✓Learnt Common Business logic Issues
+✓Learnt about CVE 2020-25200 - Pritunl vpn
+✓Reported a bug in rvdp
+
+Day20
+
+✓Solved Reverse Engineering room in tryhackme
+✓Learnt about use of gdb,radar2,strings,ltrace,
+✓Getting Started With Malware Analysis & Reverse Engineering video by https://youtu.be/HtYlGdEo_9o
+✓Gone through Infosec writeups
