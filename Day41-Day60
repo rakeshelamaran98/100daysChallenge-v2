@@ -1,0 +1,61 @@
+Day41
+
+✓Solved Directory traversal labs in portswigger.
+✓Cloud Sec Monitoring and Threat Detection in AWS by https://youtu.be/cxQJ9BioO0U
+✓Learnt about Xss bypass filter in Email Parameter
+
+Day42
+✓Learnt about SAML and how its work -  https://varonis.com/blog/what-is-saml/
+✓Different ways to find SAML Vulnerabilities -https://netspi.com/blog/technical/web-application-penetration-testing/attacking-sso-common-saml-vulnerabilities-ways-find/
+✓CVE 2020-14179 - Jira Information Disclosure Vulnerability
+
+Day43
+✓Played @tamilctf CTF with @tsk_sangam
+✓How to use FFUF https://youtu.be/aN3Nayvd7FU by @InsiderPhD - Never Knew these many awesome tricks are there
+✓CVE 2021-26086 Path traversal Vulnerability
+
+Day44
+✓Dns Zone transfer tutorial video by https://youtu.be/kdYnSfzb3UA
+✓Learnt about web shells - Python,php,meterpreter,reverse connect
+✓JSON CSRF Vulnerability
+
+Day45
+✓Learnt about Server Side template injection(SSTI) vulnerability
+✓Solvd SSTI labs in portswigger
+✓Read this Interesting xss writeup https://shrirangdiwakar.medium.com/how-a-simple-hey-can-turn-into-your-worst-nightmare-stored-xss-d5a02b136506
+
+Day46
+✓Learnt about CVE 2021-26084 - OGNL Injection Vulnerability
+✓Passive Recon - The Harvester tool usage https://youtu.be/VytCL2ujjcA by hackersploit
+✓Gone through Hackerone Reports
+
+Day47
+✓CVE 2021-21389 - Privelege Escalation to RCE
+✓Learnt about Discovering GraphQL Endpoints
+✓Read this Interesting writeup https://anubhav-singh.medium.com/notification-system-for-your-bug-bounty-automation-7b13af1b7372 by Anubhav Singh
+
+Day48
+✓CORS Vulnerability
+✓Solved CORS labs In Portswigger
+✓Corsy Tool Usage
+✓Gone through Infosec Write-ups
+
+Day49
+✓CVE 2020-13942 - Apache Unomi Vulnerability
+✓Underrated Utility tools for bug bounty - https://youtu.be/8wyLxsurG3s
+✓GraphQL Sql Injection Vulnerability
+✓Read this Writeup https://infosecwriteups.com/time-based-blind-sql-injection-in-graphql-39a25a1dfb3c
+
+Day50
+✓Reported a bug in Rvdp
+✓Solved Blind Sql Injection labs in portswigger
+✓Dmitry tool - Passive Information Gathering
+✓CVE 2021-1497-1499 - Cisco Hypperflex RCE
+
+Day51
+✓Android Security Architecture
+✓Static analysis with apk tool,jadx,gf
+✓Owasp Android Top 10
+✓Gone through Infosec writeups
+
+Day52
