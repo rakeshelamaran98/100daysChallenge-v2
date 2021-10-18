@@ -59,3 +59,39 @@ Day51
 ✓Gone through Infosec writeups
 
 Day52
+✓Tapjacking and Task Hijacking Vulnerability - APT
+✓CVE 2021-22214 - Unauth SSRF
+✓Read this amazing writeup on Cloudflare protection bypass by https://medium.com/@dheerajkmadhukar/origin-ip-found-d-dos-waf-cloudflare-protection-bypassed-41fc280ccf8f"
+
+Day53
+✓Insecure logging and storage - Finding Sensitive info - APT
+✓pid cat tool usage
+✓Dynamic Analysis - https://appetize.io/ - Online site allows you to upload and execute APKS, also you can see the logs
+✓CVE 2021-26855 - Proxylogon 
+
+Day54
+✓SSL/TLS and its Unpinning - APT
+✓Solved Information Disclosure labs in Portswigger
+✓Gone through Hackerone Android Pen Testing Reports
+
+Day55
+✓Getting started with APT https://youtu.be/_HRpLPrlg1U by 
+✓Genymotion Emulator Setup
+✓Favfreak tool usage
+
+Day56
+✓Mobile Security Framework tool
+✓Html injection and Iframe injection video https://youtu.be/RoaL_ugswto by 
+✓CVE 2021-29447 - Wordpress XXE
+
+Day57
+✓Exploiting android web view vulnerabilities blog https://medium.com/mobis3c/exploiting-android-webview-vulnerabilities-e2bcff780892
+✓CVE-2021-40438 - Apache SSRF
+✓Learnt about API Hooking
+
+Day58
+
+Day59
+
+
+Day60
