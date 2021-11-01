@@ -28,3 +28,31 @@ Day65
 ✓TM in Enterprise Level Security
 ✓CVE 2020-3580 - Cisco ASA Xss
 
+
+Day66
+✓Benefits of Threat Modeling(TM)
+✓How to Create TM for Cloud Security
+✓Reported a bug in Rvdp
+✓Read this Interesting blog https://blog.detectify.com/2019/07/31/bypassing-cloudflare-waf-with-the-origin-server-ip-address/
+
+Day67
+✓Threat Modelling(TM) Countermeasures and mitigation
+✓Watched this Threat Modeling toolkit video by https://youtu.be/KGy_KCRUGd4 
+✓Introduction to MITRE ATT&CK Framework
+
+
+Day68
+✓ATT&CK - Matrices,Tactics and Techniques
+✓Threat Modeling(TM) - Spoofing Authentication Factors
+✓Back to Tryhackme - Completed Bolt Room
+✓TM for dummies https://www.slideshare.net/AdamEnglander/threat-modeling-for-dummies-cascadia-php-2018 
+
+Day69
+✓Benefits of Using ATT&CK - Scorecard and Navigator
+✓Threat Modeling(TM) - Spoofing - Hosts, people and files
+✓Application Threat Modeling - Banking video https://youtu.be/JHH3aCCDO8c 
+
+Day70
+✓Completed Chocolate factory room in 
+✓Operationalizing ATT&CK - Cyber threat intelligence,Threat Detection, Emulation & Analytics
+✓Manually embedding payloads in apk https://youtu.be/Eo68tayiGOA by hackersploit
