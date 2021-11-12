@@ -87,15 +87,32 @@ Day75
 ✓Naabu Tool Usage - Fast Port scanner
 
 Day76
+✓Play With Docker - Docker Playground
+✓Docker Installation in Linux
+✓Learnt about Docker daemon and registry
+✓Basic Commands in Docker
 
 
 Day77
-
+✓Docker Containers - Learnt about how it works and how to create
+✓Solved Couch room in tryhackme
+✓Got to know about attackerdb
+✓Read infosec writeups
 
 Day78
-
+✓Got Hall of fame in Accenture
+✓Docker Images, Hub and Private Registry
+✓Benefits of using Docker
+✓Productivity Hack - Notion for Bug Bounty https://youtu.be/Fz3Hn_oU0_o by insiderphd
 
 Day79
-
+✓Container Security - Overview
+✓How to Containerize an app
+✓Learnt about how to get Past the Firewalls That Block ICMP Ping
+✓Amazing Writeup on Sql Injection https://0xmahmoudjo0.medium.com/how-i-found-multiple-sql-injection-with-ffuf-and-sqlmap-in-a-few-minutes-9c3bb3780e8f by 
 
 Day80
+✓Docker Owasp TOP 10
+✓How to secure containers.
+✓Solved dogcat room in tryhackme
+✓Nmap Sooo Good video  - https://youtu.be/4t4kBkMsDbQ by networkchuck
