@@ -1,6 +1,6 @@
 Day21
 
-✓ Tools and Techniques for RE by https://youtu.be/3NTXFUxcKPc
+✓Tools and Techniques for RE by https://youtu.be/3NTXFUxcKPc Liveoverflow
 ✓Gone through Penetration Testing Scoping and Engagement Methodology CPENT Module 1
 ✓Solved Business logic vulnerabilities labs in portswigger
 ✓Password Reset poisoning Vulnerability.
@@ -8,22 +8,22 @@ Day21
 Day22
 
 ✓Completed Super Spam Room in tryhackme
-✓Basic Recon Automation by https://youtu.be/EZgxKP7HGLI
+✓Basic Recon Automation Part2 by https://youtu.be/EZgxKP7HGLI Musab Khan
 ✓Gone through OSINT Methodology CPENT Module 2
 ✓Read hackerone reports
 
 Day23
 
 ✓Solved SSRF labs in portswigger
-✓Watched https://youtu.be/VroEiMOJPm8 - Reversing a simple program
+✓Watched https://youtu.be/VroEiMOJPm8 - Reversing a simple program Liveoverflow
 ✓Gone through Social Engineering PT CPENT Module 3
 ✓Reported a bug in rvdp
 
 Day24
 
-✓Jira CVEs Mind Map https://raw.githubusercontent.com/harsh-bothra/learn365/main/MindMaps/JIRA_CVEs.png by
+✓Jira CVEs Mind Map https://raw.githubusercontent.com/harsh-bothra/learn365/main/MindMaps/JIRA_CVEs.png by Harsh Bothra
 ✓Gf tool usage
-✓RustScan Installation - Modern Post scanner , faster than nmap
+✓RustScan Installation - Modern Post scanner ,faster than nmap
 ✓Reported a bug in rvdp
 
 Day25
@@ -31,11 +31,11 @@ Day25
 ✓Continued Solving SSRF labs in portswigger
 ✓Subjack tool usage
 ✓Learnt about Subdomain takeover vulnerability
-✓Simple Program in python RE https://youtu.be/ajy1PHWYeyQ
+✓Simple Program in python RE https://youtu.be/ajy1PHWYeyQ Liveoverflow
 
 Day26
 
-✓Watched https://youtu.be/yCUQBc2rY9Y - API Security by 
+✓Watched https://youtu.be/yCUQBc2rY9Y - API Security by insiderphd
 ✓Learnt about types of API and bugs in API
 ✓Gone through Hackerone Reports
 
@@ -49,7 +49,7 @@ Day27
 Day28
 
 ✓Solved Access Control Vulnerabilities labs in portswigger
-✓Recon API Enumeration by https://youtu.be/fvcKwUS4PTE
+✓Recon API Enumeration by https://youtu.be/fvcKwUS4PTE insiderphd
 ✓Ffuf and Arjun tool usage
 ✓Gone through Infosec writeups
 
@@ -57,12 +57,12 @@ Day29
 
 ✓CVE 2020-5902 - Big IP RCE
 ✓CVE 2021-3129 - Laravel Debug 
-✓Owasp Api Top 10 Vulnerabilities by https://youtu.be/aQGbYfalRTA
+✓Owasp Api Top 10 Vulnerabilities by https://youtu.be/aQGbYfalRTA insiderphd
 ✓SSRF Bypass Restrictions
 
 Day30
 
-✓Creating a keygen Part 1 by https://youtu.be/qS4VWL5R_OM
+✓Creating a keygen Part 1 by https://youtu.be/qS4VWL5R_OM Liveoverflow
 ✓Continued Solving Access Control Vulnerabilities labs in portswigger
 ✓Learnt about JWT Vulnerabilities
 ✓Jwt tool usage
@@ -82,7 +82,7 @@ Day32
 Day33
 
 ✓Solved CSRF Labs in PortSwigger
-✓CSRF Complete Video Guide by https://youtu.be/7bTNMSqCMI0 
+✓CSRF Complete Video Guide by https://youtu.be/7bTNMSqCMI0 Rana Khalil
 ✓Bolt tool Usage - CSRF Scanner
 
 Day34
@@ -95,7 +95,7 @@ Day34
 
 Day35
 
-✓Learnt about IDOR Vulnerability https://youtu.be/gINAtzdccts by 
+✓Learnt about IDOR Vulnerability https://youtu.be/gINAtzdccts by insiderphd
 ✓Different ways to find IDOR https://t.co/W6EJUj1etG?amp=1
 ✓Solved IDOR Vulnerabilities labs in portswigger
 ✓Reported a bug in rvdp
@@ -103,7 +103,7 @@ Day35
 
 Day36
 
-✓Information Gathering With Shodan https://youtu.be/_DlGhlUkbwk
+✓Information Gathering With Shodan https://youtu.be/_DlGhlUkbwk Hackersploit
 ✓Completed Dnsdetail Room in tryhackme
 ✓Gone through Infosec writeups
 
@@ -111,7 +111,7 @@ Day37
 
 ✓Solved HTTP Host header attacks in portswigger
 ✓Learnt about stored xss via file upload vulnerability
-✓Xss Exploitation Framework https://youtu.be/CNttFXupG8M by 
+✓Xss Exploitation Framework https://youtu.be/CNttFXupG8M by Lucas Philippe (BitK_)
 ✓Gone through Hackerone Reports
 
 Day38
