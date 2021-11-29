@@ -23,8 +23,82 @@ Day84
 ✓Command Injection Attack strategy
 ✓Hacking postMessage Video -  https://youtu.be/CWNxoxOX6sI  by farah
 
-
 Day85
 ✓Osintgram tool https://youtu.be/NWyqSbnsvGU by network chuck
 ✓Solved Command injection labs in portswigger
 ✓Learnt about File Upload - Bypass Content Type and Magic Number
+
+Day86
+✓OSINT - Passive Recon - Maltego Information Gathering Tool Usage
+✓Completed Blind command Injection labs in portswigger
+✓Solved Geolocating images room in tryhackme
+✓CRLfuzz tool usage
+
+Day87
+✓Phoneinfoga - OSINT Tool https://youtu.be/6CnDdXVTxhU from 
+✓Identity and Access Management - Overview
+✓IAM - Assets,Criticality, Data Privacy
+✓Xkeys - Burpsuite Addon
+
+Day88
+✓Reported a bug in Rvdp
+✓Sherlock tool usage https://youtu.be/KdZvxxLsN3E from network chuck
+✓IAM - Governance , Complaince , Policy and Procedures
+✓How to Bypass 304,403 Response Code
+
+Day89
+✓OSINT Tools https://youtu.be/z6ghArAWwWc by 
+✓Identity and Access Management - Authentication,Authorization and Access Control
+✓Solved Madness room in tryhackme
+✓Read Hackerone Reports
+
+Day90
+✓IAM - Access Control Types & User Provisioning Categories
+✓Skiptracer - OSINT Tool https://youtu.be/Ls0SH9MZMCs by nullbyte
+✓Solved Easy Phish Challenge in Hack the box
+✓CVE 2021-41277 - Metabase LFI
+
+
+Day91
+✓IAM - Access Monitoring and Termination
+✓IAM - Challenges and Benefits
+✓Linkfinder Tool Usage
+✓Solved Misdirection Challenge in Hack the box
+
+Day92
+✓Solved Insecure Deserialization labs in portswigger
+✓Reported a Bug in Bugcrowd
+✓KiteRunner Tool Usage
+✓Read Infosec Writeups
+
+
+Day93
+✓InSecure BroadCast receiver video https://youtu.be/_Bp6QNDND3s by
+✓Completed Sublister room in tryhackme
+✓Pixel Flood , Frame Flood Denial of Service attacks
+✓Nessus Vulnerability Scanner - Overview
+
+
+Day94
+✓Vulnerability Scanning and Vulnerability Management Lifecycle
+✓Completed Sakura Room in tryhackme
+✓SMB Enumeration for Penetration Testing
+
+
+Day95
+
+
+Day96
+
+
+
+Day97
+
+
+Day98
+
+
+Day99
+
+
+Day100
