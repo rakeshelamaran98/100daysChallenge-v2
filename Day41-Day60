@@ -1,7 +1,7 @@
 Day41
 
 ✓Solved Directory traversal labs in portswigger.
-✓Cloud Sec Monitoring and Threat Detection in AWS by https://youtu.be/cxQJ9BioO0U
+✓Cloud Sec Monitoring and Threat Detection in AWS by https://youtu.be/cxQJ9BioO0U Sans cloud security
 ✓Learnt about Xss bypass filter in Email Parameter
 
 Day42
@@ -15,7 +15,7 @@ Day43
 ✓CVE 2021-26086 Path traversal Vulnerability
 
 Day44
-✓Dns Zone transfer tutorial video by https://youtu.be/kdYnSfzb3UA
+✓Dns Zone transfer tutorial video by https://youtu.be/kdYnSfzb3UA Hackersploit
 ✓Learnt about web shells - Python,php,meterpreter,reverse connect
 ✓JSON CSRF Vulnerability
 
@@ -42,7 +42,7 @@ Day48
 
 Day49
 ✓CVE 2020-13942 - Apache Unomi Vulnerability
-✓Underrated Utility tools for bug bounty - https://youtu.be/8wyLxsurG3s
+✓Underrated Utility tools for bug bounty - https://youtu.be/8wyLxsurG3s RogueSMG
 ✓GraphQL Sql Injection Vulnerability
 ✓Read this Writeup https://infosecwriteups.com/time-based-blind-sql-injection-in-graphql-39a25a1dfb3c
 
@@ -75,13 +75,13 @@ Day54
 ✓Gone through Hackerone Android Pen Testing Reports
 
 Day55
-✓Getting started with APT https://youtu.be/_HRpLPrlg1U by 
+✓Getting started with APT https://youtu.be/_HRpLPrlg1U by Insiderphd
 ✓Genymotion Emulator Setup
 ✓Favfreak tool usage
 
 Day56
 ✓Mobile Security Framework tool
-✓Html injection and Iframe injection video https://youtu.be/RoaL_ugswto by 
+✓Html injection and Iframe injection video https://youtu.be/RoaL_ugswto by Hackersploit
 ✓CVE 2021-29447 - Wordpress XXE
 
 Day57
@@ -92,17 +92,17 @@ Day57
 Day58
 ✓Common Mistakes When using permission in Android blog https://blog.oversecured.com/Common-mistakes-when-using-permissions-in-Android/
 ✓Fireover - Firebase takeover tool
-✓Hacking Android Deeplink issue https://youtu.be/jn2qkLH_wjU by 
+✓Hacking Android Deeplink issue https://youtu.be/jn2qkLH_wjU by Aseem Shrey
 
 Day59
 ✓Got Hall of fame in Ultreicht University
 ✓Drozer Security Framework - APT
-✓Android Exported Activities and how to exploit them video https://youtu.be/ZUikTuoCP_M by
+✓Android Exported Activities and how to exploit them video https://youtu.be/ZUikTuoCP_M by Aseem Shrey
 ✓Gone through Infosec writeups
 
 
 Day60
-✓Android APT Checklist https://www.xmind.net/m/GkgaYH/ by 
-✓Attacking JWT https://youtu.be/ghfmx4pr1Qg
+✓Android APT Checklist https://www.xmind.net/m/GkgaYH/ by Harsh Bothra
+✓Attacking JWT https://youtu.be/ghfmx4pr1Qg Farah Hawa
 ✓Android Weak host validation
 ✓Android Hard Coding Issues
