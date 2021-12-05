@@ -88,16 +88,31 @@ Day95
 ✓Published My blog https://medium.com/techiepedia/docker-getting-started-daef2569bbf4
 
 Day96
-
-
+✓Completed Nessus Room in tryhackme
+✓enum4linux tool usage and CheatSheet
+✓Pentesting Finger Port - 79
+✓Read Infosec Writeups
 
 Day97
-
+✓Completed Advent of Cyber Day1 in @realtryhackme
+✓Pentesting msrpc Port - 135, 593
+✓GoSpider tool usage
+✓Red Teaming - Overview
 
 Day98
-
+✓Completed Advent of Cyber Day2 in @realtryhackme
+✓Password Spraying - Red Team
+✓Pentesting NFS Service - Port 2049
+✓Kerberos Overview and Key Components
 
 Day99
-
+✓Completed Advent of Cyber Day3 in @tryhackme
+✓Kerberos : Golden and Silver Tickets
+✓Kerbrute Tool Usage
+✓Exploiting Java deserialization
 
 Day100
+✓Completed Advent of Cyber Day4 in @tryhackm0e
+✓Kerberos : AS-Rep Roasting Technique
+✓Malicious Document analysis and Indicators
+✓Exploiting PHP and Ruby deserialization
