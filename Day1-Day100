@@ -1,0 +1,619 @@
+Day1:
+
+✓Recon Strategies by @InsiderPhD 
+✓HTTP Digest Auth Hash calculation
+✓Reported a Bug in Rvdp
+
+Day2:
+
+✓Web cache poisoning labs in https://poison.digi.ninja/ 
+✓Usage of Param Miner extension in burp 
+✓HTTP Statelessness cookies
+✓Reported a Bug in Rvdp
+
+Day3:
+
+✓The Bug Hunter's Methodology Recon by Jason Haddix. https://youtu.be/uKWu6yhnhbQ
+✓How to Find web-cache poisoning using Nuclei tool
+✓Basics of Html Injection
+✓Reported a Bug in Rvdp
+
+Day4:
+
+✓Solved MITRE Room in tryhackme
+✓Html Injection Bypass filters
+✓Aquatone tool
+✓Gone through Infosec writeups
+
+Day5:
+
+✓Exploiting File Upload Vulnerability
+✓CVE 2020-3187 
+✓Basics of Command Injection
+✓Gone through Infosec writeups
+
+Day6:
+
+✓Solved PortSwigger labs
+✓CVE 2020-3452 
+✓Command Injection Filters
+✓Reported a bug in bugcrowd
+
+Day7:
+
+✓Basic Recon Automation by https://youtu.be/IkSsnQpzPjs Musab khan
+✓Solved Business Logic vulnerabilities labs in portswigger
+✓Hakrawler tool
+✓Gone through Infosec writeups
+
+Day8:
+
+✓Completed Ultratech room in tryhackme
+✓CVE 2021-27651
+✓Haklistgen tool
+✓Reported a Bug in Rvdp
+
+Day9:
+
+✓Solved Directory traversal labs in portswigger
+✓Learnt automation using bash scripting
+✓anew tool usage
+✓Gone through Infosec writeups
+
+Day10:
+
+✓Completed Regular Expression room in tryhackme
+✓Learnt automation using bash scripting
+✓Gone through Infosec writeups
+
+Day11:
+
+✓Solved SSRF labs in portswigger
+✓Bug Bounty Recon video by https://youtu.be/vKMW-XeI2_c kathen patel
+✓Maha tool usage
+✓Gone through Infosec writeups
+
+
+Day12
+
+✓Solved 2FA labs in portswigger
+✓Crunch tool usage
+✓Learnt how to enumerate username and password by bruteforcing
+✓Reported a Bug in Rvdp
+
+
+Day13
+
+✓Completed Relevant Room in tryhackme
+✓Basic msf console commands by https://youtu.be/gWKyFYMY_Pk Hak5
+✓Found an amazing resource https://pentest.ws/ - Complete Toolset for penetration testers
+✓Gone through Infosec writeups
+
+
+Day14
+
+✓Solved Authentication labs in portswigger
+✓ShuffleDns and MassDns tool usage
+✓Reported a Bug in Rvdp
+
+
+Day15
+
+✓Solved wgel ctf room in tryhackme
+✓Learnt about different methods of Account Takeover
+✓Gone through Hackerone Reports
+✓Reported a Bug in Rvdp
+
+Day16
+
+✓Solved XXE labs in portswigger
+✓2FA Bypass techniques Mindmap https://www.xmind.net/m/8Hkymg/# by Harsh bothra
+✓Xattacker tool usage
+✓Reported a Bug in Rvdp
+
+Day17
+
+✓Continued Solving XXE labs in portswigger
+✓Learnt about Information leak on github
+✓Started Learning bash scripting for automation
+✓Gone through Infosec writeups
+
+Day18
+
+✓Completed Bash scripting Room in tryhackme
+✓Github Recon and Sensitive Data Exposure Video by https://youtu.be/l0YsEk_59fQ Bugcrowd
+✓Learnt about HTTP Parameter Pollution 
+✓Gitdorker tool usage
+
+Day19
+
+✓Solved Business logic vulnerabilities labs in portswigger
+✓Learnt Common Business logic Issues
+✓Learnt about CVE 2020-25200 - Pritunl vpn
+✓Reported a bug in rvdp
+
+Day20
+
+✓Solved Reverse Engineering room in tryhackme
+✓Learnt about use of gdb,radar2,strings,ltrace,
+✓Getting Started With Malware Analysis & Reverse Engineering video by https://youtu.be/HtYlGdEo_9o Hackersploit
+✓Gone through Infosec writeups
+
+Day21
+
+✓Tools and Techniques for RE by https://youtu.be/3NTXFUxcKPc Liveoverflow
+✓Gone through Penetration Testing Scoping and Engagement Methodology CPENT Module 1
+✓Solved Business logic vulnerabilities labs in portswigger
+✓Password Reset poisoning Vulnerability.
+
+Day22
+
+✓Completed Super Spam Room in tryhackme
+✓Basic Recon Automation Part2 by https://youtu.be/EZgxKP7HGLI Musab Khan
+✓Gone through OSINT Methodology CPENT Module 2
+✓Read hackerone reports
+
+Day23
+
+✓Solved SSRF labs in portswigger
+✓Watched https://youtu.be/VroEiMOJPm8 - Reversing a simple program Liveoverflow
+✓Gone through Social Engineering PT CPENT Module 3
+✓Reported a bug in rvdp
+
+Day24
+
+✓Jira CVEs Mind Map https://raw.githubusercontent.com/harsh-bothra/learn365/main/MindMaps/JIRA_CVEs.png by Harsh Bothra
+✓Gf tool usage
+✓RustScan Installation - Modern Post scanner ,faster than nmap
+✓Reported a bug in rvdp
+
+Day25
+
+✓Continued Solving SSRF labs in portswigger
+✓Subjack tool usage
+✓Learnt about Subdomain takeover vulnerability
+✓Simple Program in python RE https://youtu.be/ajy1PHWYeyQ Liveoverflow
+
+Day26
+
+✓Watched https://youtu.be/yCUQBc2rY9Y - API Security by insiderphd
+✓Learnt about types of API and bugs in API
+✓Gone through Hackerone Reports
+
+Day27
+
+✓Dns Bruteforcing with nmap scripts
+✓BillCipher tool usage
+✓Solved Git and crumpets room in tryhackme
+✓Reported a bug in rvdp
+
+Day28
+
+✓Solved Access Control Vulnerabilities labs in portswigger
+✓Recon API Enumeration by https://youtu.be/fvcKwUS4PTE insiderphd
+✓Ffuf and Arjun tool usage
+✓Gone through Infosec writeups
+
+Day29
+
+✓CVE 2020-5902 - Big IP RCE
+✓CVE 2021-3129 - Laravel Debug 
+✓Owasp Api Top 10 Vulnerabilities by https://youtu.be/aQGbYfalRTA insiderphd
+✓SSRF Bypass Restrictions
+
+Day30
+
+✓Creating a keygen Part 1 by https://youtu.be/qS4VWL5R_OM Liveoverflow
+✓Continued Solving Access Control Vulnerabilities labs in portswigger
+✓Learnt about JWT Vulnerabilities
+✓Jwt tool usage
+
+Day31
+
+✓Password Reset token Issues
+✓Learnt about 403 Forbidden bypass
+✓Bypass 403 tool usage
+
+Day32
+
+✓Learnt about SMTP Open relay attacks
+✓Jsparser tool usage
+✓Gone through Infosec writeups
+
+Day33
+
+✓Solved CSRF Labs in PortSwigger
+✓CSRF Complete Video Guide by https://youtu.be/7bTNMSqCMI0 Rana Khalil
+✓Bolt tool Usage - CSRF Scanner
+
+Day34
+
+✓Continued Solving CSRF Labs in Portswigger
+✓Recon-ng tool usage - Commands,Workspaces and data management
+✓Gone through Network Penetration Testing Methodology-External - Module 4
+✓Reported a bug in rvdp
+
+
+Day35
+
+✓Learnt about IDOR Vulnerability https://youtu.be/gINAtzdccts by insiderphd
+✓Different ways to find IDOR https://t.co/W6EJUj1etG?amp=1
+✓Solved IDOR Vulnerabilities labs in portswigger
+✓Reported a bug in rvdp
+
+
+Day36
+
+✓Information Gathering With Shodan https://youtu.be/_DlGhlUkbwk Hackersploit
+✓Completed Dnsdetail Room in tryhackme
+✓Gone through Infosec writeups
+
+Day37
+
+✓Solved HTTP Host header attacks in portswigger
+✓Learnt about stored xss via file upload vulnerability
+✓Xss Exploitation Framework https://youtu.be/CNttFXupG8M by Lucas Philippe (BitK_)
+✓Gone through Hackerone Reports
+
+Day38
+
+✓Solved Authentication labs in portswigger
+✓The Pentesters framework tool usage
+✓How to Find git secrets and private API Keys - Trufflehog tool
+
+
+Day39
+
+✓Cf Checker tool usage
+✓Email header injection vulnerability
+✓Learnt about Reflected xss in device graph page - CVE 2021-21801-21803
+
+Day40
+✓How to use Firefox containers for Easy IDOR https://youtu.be/zeDb9ugIGYs by @InsiderPhD
+✓Metabigor tool usage
+✓Reported a bug in Rvdp
+
+Day41
+
+✓Solved Directory traversal labs in portswigger.
+✓Cloud Sec Monitoring and Threat Detection in AWS by https://youtu.be/cxQJ9BioO0U Sans cloud security
+✓Learnt about Xss bypass filter in Email Parameter
+
+Day42
+✓Learnt about SAML and how its work -  https://varonis.com/blog/what-is-saml/
+✓Different ways to find SAML Vulnerabilities -https://netspi.com/blog/technical/web-application-penetration-testing/attacking-sso-common-saml-vulnerabilities-ways-find/
+✓CVE 2020-14179 - Jira Information Disclosure Vulnerability
+
+Day43
+✓Played @tamilctf CTF with @tsk_sangam
+✓How to use FFUF https://youtu.be/aN3Nayvd7FU by @InsiderPhD - Never Knew these many awesome tricks are there
+✓CVE 2021-26086 Path traversal Vulnerability
+
+Day44
+✓Dns Zone transfer tutorial video by https://youtu.be/kdYnSfzb3UA Hackersploit
+✓Learnt about web shells - Python,php,meterpreter,reverse connect
+✓JSON CSRF Vulnerability
+
+Day45
+✓Learnt about Server Side template injection(SSTI) vulnerability
+✓Solvd SSTI labs in portswigger
+✓Read this Interesting xss writeup https://shrirangdiwakar.medium.com/how-a-simple-hey-can-turn-into-your-worst-nightmare-stored-xss-d5a02b136506
+
+Day46
+✓Learnt about CVE 2021-26084 - OGNL Injection Vulnerability
+✓Passive Recon - The Harvester tool usage https://youtu.be/VytCL2ujjcA by hackersploit
+✓Gone through Hackerone Reports
+
+Day47
+✓CVE 2021-21389 - Privelege Escalation to RCE
+✓Learnt about Discovering GraphQL Endpoints
+✓Read this Interesting writeup https://anubhav-singh.medium.com/notification-system-for-your-bug-bounty-automation-7b13af1b7372 by Anubhav Singh
+
+Day48
+✓CORS Vulnerability
+✓Solved CORS labs In Portswigger
+✓Corsy Tool Usage
+✓Gone through Infosec Write-ups
+
+Day49
+✓CVE 2020-13942 - Apache Unomi Vulnerability
+✓Underrated Utility tools for bug bounty - https://youtu.be/8wyLxsurG3s RogueSMG
+✓GraphQL Sql Injection Vulnerability
+✓Read this Writeup https://infosecwriteups.com/time-based-blind-sql-injection-in-graphql-39a25a1dfb3c
+
+Day50
+✓Reported a bug in Rvdp
+✓Solved Blind Sql Injection labs in portswigger
+✓Dmitry tool - Passive Information Gathering
+✓CVE 2021-1497-1499 - Cisco Hypperflex RCE
+
+Day51
+✓Android Security Architecture
+✓Static analysis with apk tool,jadx,gf
+✓Owasp Android Top 10
+✓Gone through Infosec writeups
+
+Day52
+✓Tapjacking and Task Hijacking Vulnerability - APT
+✓CVE 2021-22214 - Unauth SSRF
+✓Read this amazing writeup on Cloudflare protection bypass by https://medium.com/@dheerajkmadhukar/origin-ip-found-d-dos-waf-cloudflare-protection-bypassed-41fc280ccf8f"
+
+Day53
+✓Insecure logging and storage - Finding Sensitive info - APT
+✓pid cat tool usage
+✓Dynamic Analysis - https://appetize.io/ - Online site allows you to upload and execute APKS, also you can see the logs
+✓CVE 2021-26855 - Proxylogon 
+
+Day54
+✓SSL/TLS and its Unpinning - APT
+✓Solved Information Disclosure labs in Portswigger
+✓Gone through Hackerone Android Pen Testing Reports
+
+Day55
+✓Getting started with APT https://youtu.be/_HRpLPrlg1U by Insiderphd
+✓Genymotion Emulator Setup
+✓Favfreak tool usage
+
+Day56
+✓Mobile Security Framework tool
+✓Html injection and Iframe injection video https://youtu.be/RoaL_ugswto by Hackersploit
+✓CVE 2021-29447 - Wordpress XXE
+
+Day57
+✓Exploiting android web view vulnerabilities blog https://medium.com/mobis3c/exploiting-android-webview-vulnerabilities-e2bcff780892
+✓CVE-2021-40438 - Apache SSRF
+✓Learnt about API Hooking
+
+Day58
+✓Common Mistakes When using permission in Android blog https://blog.oversecured.com/Common-mistakes-when-using-permissions-in-Android/
+✓Fireover - Firebase takeover tool
+✓Hacking Android Deeplink issue https://youtu.be/jn2qkLH_wjU by Aseem Shrey
+
+Day59
+✓Got Hall of fame in Ultreicht University
+✓Drozer Security Framework - APT
+✓Android Exported Activities and how to exploit them video https://youtu.be/ZUikTuoCP_M by Aseem Shrey
+✓Gone through Infosec writeups
+
+Day60
+✓Android APT Checklist https://www.xmind.net/m/GkgaYH/ by Harsh Bothra
+✓Attacking JWT https://youtu.be/ghfmx4pr1Qg Farah Hawa
+✓Android Weak host validation
+✓Android Hard Coding Issues
+
+Day61
+✓Android Malware aalysis video by https://youtu.be/aimgOeHwKgs InfosecTube 
+✓Android Intent Redirection video https://youtu.be/Vw7I99AR-Iw by Aseem Shrey
+✓Bypass Fingerprint - https://infosecwriteups.com/bypass-of-biometrics-password-security-functionality-for-android-8e0174ac7cac - Amazing writeup
+✓CVE 2019-6339 - Drupal RCE
+
+Day62
+✓Bypass Pattern Unlock on Android via ADB
+✓Reading JSON and XML for Information Disclosure https://youtu.be/992cxaPdaho by Insiderphd
+✓Sql Injection in Content Provider
+
+Day63
+✓Andriller android forensic tool
+✓Have attended Threat hunting Webinar by rootecstak
+✓Finding bugs in Mobile APIs https://youtu.be/N9YODrMUk5A - Interesting Learning from Insiderphd
+✓Gone through Hackerone Android Pen Testing Reports
+
+Day64
+✓Threat Modelling(TM) Introduction
+✓Four Question Framework in TM
+✓Setup Port forwarding for Android Hacking
+✓Static analysis of Android apps by https://youtu.be/aFrCjRi6T6M Semi Yulianto
+
+
+Day65
+✓Got 50$ Bounty in rvdp
+✓Learnt various threat modelling methodologies - STRIDE, DREAD, PASTA , VAST, Attack Tree
+✓TM in Enterprise Level Security
+✓CVE 2020-3580 - Cisco ASA Xss
+
+
+Day66
+✓Benefits of Threat Modeling(TM)
+✓How to Create TM for Cloud Security
+✓Reported a bug in Rvdp
+✓Read this Interesting blog https://blog.detectify.com/2019/07/31/bypassing-cloudflare-waf-with-the-origin-server-ip-address/
+
+Day67
+✓Threat Modelling(TM) Countermeasures and mitigation
+✓Watched this Threat Modeling toolkit video by https://youtu.be/KGy_KCRUGd4 Jonathan Marcil
+✓Introduction to MITRE ATT&CK Framework
+
+
+Day68
+✓ATT&CK - Matrices,Tactics and Techniques
+✓Threat Modeling(TM) - Spoofing Authentication Factors
+✓Back to Tryhackme - Completed Bolt Room
+✓TM for dummies https://www.slideshare.net/AdamEnglander/threat-modeling-for-dummies-cascadia-php-2018 
+
+Day69
+✓Benefits of Using ATT&CK - Scorecard and Navigator
+✓Threat Modeling(TM) - Spoofing - Hosts, people and files
+✓Application Threat Modeling - Banking video https://youtu.be/JHH3aCCDO8c Foreseeti
+
+Day70
+✓Completed Chocolate factory room in tryhackme
+✓Operationalizing ATT&CK - Cyber threat intelligence,Threat Detection, Emulation & Analytics
+✓Manually embedding payloads in apk https://youtu.be/Eo68tayiGOA by hackersploit
+
+Day71
+✓Hacking Oauth applications pt.1 https://youtu.be/gVqrf2uUdQ0 by Aseem Shrey
+✓Learnt about Oauth 2.0 Misimplementation , vulnerabilities and Best Practices
+✓Read this Interesting writeup https://infosecwriteups.com/oauth-2-0-hacking-simplified-part-1-understanding-basics-ad323cb4a05c 
+
+Day72
+Hacking OAUTH:
+✓Pt. 2 https://youtu.be/EG9gU5-UBAE by @AseemShrey 
+✓For fun and profit - https://youtu.be/X0mV9HXbKHY 
+✓Read this https://infosecwriteups.com/oauth-2-0-hacking-simplified-part-2-vulnerabilities-and-mitigation-d01dd6d5fa2c 
+✓Mindmap- https://twitter.com/hackerscrolls/status/1269266750467649538 
+ 
+Day73
+✓Live api hacking demo https://youtu.be/cWSu2Ja65Z4 by Bugcrowd
+✓Solved Vulnerabilities 101 Room in tryhackme
+✓Read this https://medium.com/techiepedia/unauthenticated-access-to-cloud-portal-a-without-%EF%B8%8F-9f29c387b937
+
+Day74
+✓Docker Security - Overview
+✓Docker Architecture and attack types
+✓Introduction to Docker Security 101 - https://youtu.be/ucMA24xqp7o Next Level Now Royal
+✓sign APK's with jarsigner and zipalign https://youtu.be/XzAZq_LPFUU by Hackersploit
+
+Day75
+✓Control Groups in Docker Security
+✓Have Attended Target approaching Tactics webinar by @rootecstak
+✓Solved Source room in tryhackme
+✓Naabu Tool Usage - Fast Port scanner
+
+Day76
+✓Play With Docker - Docker Playground
+✓Docker Installation in Linux
+✓Learnt about Docker daemon and registry
+✓Basic Commands in Docker
+
+Day77
+✓Docker Containers - Learnt about how it works and how to create
+✓Solved Couch room in tryhackme
+✓Got to know about attackerdb
+✓Read infosec writeups
+
+Day78
+✓Got Hall of fame in Accenture
+✓Docker Images, Hub and Private Registry
+✓Benefits of using Docker
+✓Productivity Hack - Notion for Bug Bounty https://youtu.be/Fz3Hn_oU0_o by insiderphd
+
+Day79
+✓Container Security - Overview
+✓How to Containerize an app
+✓Learnt about how to get Past the Firewalls That Block ICMP Ping
+✓Amazing Writeup on Sql Injection https://0xmahmoudjo0.medium.com/how-i-found-multiple-sql-injection-with-ffuf-and-sqlmap-in-a-few-minutes-9c3bb3780e8f by 
+
+Day80
+✓Docker Owasp TOP 10
+✓How to secure containers.
+✓Solved dogcat room in tryhackme
+✓Nmap Sooo Good video  - https://youtu.be/4t4kBkMsDbQ by networkchuck
+
+Day81
+✓Docker cve lists
+✓Managing Secrets in Docker
+✓CVE-2019-8442 - Jira Instance exposing pom.xml
+✓CloudFail tool usage
+
+Day82
+✓Docker Volumes - Managing and Creating
+✓Docker Networking - Listing and Inspecting
+✓Read this - https://medium.com/@kgaber99/sql-injection-in-forget-password-function-3c945512e3cb - Interesting sqli finding
+✓Solved Ninja skills rooms in tryhackme
+
+Day83
+✓Docker Swarm - Overview
+✓Docker Universal Control Plane
+✓ReNgine Tool Usage
+✓Reported a bug in Rvdp
+
+
+Day84
+✓OSINT - Overview
+✓Active and Passive Reconnaissance
+✓Command Injection Attack strategy
+✓Hacking postMessage Video -  https://youtu.be/CWNxoxOX6sI by farah
+
+Day85
+✓Osintgram tool https://youtu.be/NWyqSbnsvGU by network chuck
+✓Solved Command injection labs in portswigger
+✓Learnt about File Upload - Bypass Content Type and Magic Number
+
+Day86
+✓OSINT - Passive Recon - Maltego Information Gathering Tool Usage
+✓Completed Blind command Injection labs in portswigger
+✓Solved Geolocating images room in tryhackme
+✓CRLfuzz tool usage
+
+Day87
+✓Phoneinfoga - OSINT Tool https://youtu.be/6CnDdXVTxhU from network chuck
+✓Identity and Access Management - Overview
+✓IAM - Assets,Criticality, Data Privacy
+✓Xkeys - Burpsuite Addon
+
+Day88
+✓Reported a bug in Rvdp
+✓Sherlock tool usage https://youtu.be/KdZvxxLsN3E from network chuck
+✓IAM - Governance , Complaince , Policy and Procedures
+✓How to Bypass 304,403 Response Code
+
+Day89
+✓OSINT Tools https://youtu.be/z6ghArAWwWc by STOK
+✓Identity and Access Management - Authentication,Authorization and Access Control
+✓Solved Madness room in tryhackme
+✓Read Hackerone Reports
+
+Day90
+✓IAM - Access Control Types & User Provisioning Categories
+✓Skiptracer - OSINT Tool https://youtu.be/Ls0SH9MZMCs by nullbyte
+✓Solved Easy Phish Challenge in Hack the box
+✓CVE 2021-41277 - Metabase LFI
+
+Day91
+✓IAM - Access Monitoring and Termination
+✓IAM - Challenges and Benefits
+✓Linkfinder Tool Usage
+✓Solved Misdirection Challenge in Hack the box
+
+Day92
+✓Solved Insecure Deserialization labs in portswigger
+✓Reported a Bug in Bugcrowd
+✓KiteRunner Tool Usage
+✓Read Infosec Writeups
+
+Day93
+✓InSecure BroadCast receiver video https://youtu.be/_Bp6QNDND3s by Aseem Shrey
+✓Completed Sublister room in tryhackme
+✓Pixel Flood , Frame Flood Denial of Service attacks
+✓Nessus Vulnerability Scanner - Overview
+
+Day94
+✓Vulnerability Scanning and Vulnerability Management Lifecycle
+✓Completed Sakura Room in tryhackme
+✓SMB Enumeration for Penetration Testing
+
+Day95
+✓Nessus Installation & Configuration
+✓Solved Templated Challenge in @hackthebox_eu
+✓Completed Docker Deep Dive Course from @pluralsight
+✓Published My blog https://medium.com/techiepedia/docker-getting-started-daef2569bbf4
+
+Day96
+✓Completed Nessus Room in tryhackme
+✓enum4linux tool usage and CheatSheet
+✓Pentesting Finger Port - 79
+✓Read Infosec Writeups
+
+Day97
+✓Completed Advent of Cyber Day1 in @realtryhackme
+✓Pentesting msrpc Port - 135, 593
+✓GoSpider tool usage
+✓Red Teaming - Overview
+
+Day98
+✓Completed Advent of Cyber Day2 in @realtryhackme
+✓Password Spraying - Red Team
+✓Pentesting NFS Service - Port 2049
+✓Kerberos Overview and Key Components
+
+Day99
+✓Completed Advent of Cyber Day3 in @tryhackme
+✓Kerberos : Golden and Silver Tickets
+✓Kerbrute Tool Usage
+✓Exploiting Java deserialization
+
+Day100
+✓Completed Advent of Cyber Day4 in @tryhackm0e
+✓Kerberos : AS-Rep Roasting Technique
+✓Malicious Document analysis and Indicators
+✓Exploiting PHP and Ruby deserialization
