@@ -19,6 +19,6 @@ My 100 Days Learning Progress - 2021
 
 ## [Day81 - Day100](https://github.com/rakeshelamaran98/100daysChallenge-v2/blob/main/Day81-Day100)
 
-## [Complete Challenge > Day1 - Day100]()
+## [Complete Challenge > Day1 - Day100](https://github.com/rakeshelamaran98/100daysChallenge-v2/blob/main/Day01-Day100)
 
 ## [Highlights]()
